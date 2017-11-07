@@ -1,0 +1,3 @@
+[submodule "sample-repo"]
+	path = sample-repo
+	url = https://github.com/riteshverma26/sample-repo.git
